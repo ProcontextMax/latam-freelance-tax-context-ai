@@ -48,3 +48,10 @@ Cuando el usuario realice consultas sobre cobros o impuestos, el asistente de IA
     }
   }
 }
+
+☕ Apoya este Proyecto de Código Abierto
+Si esta capa de datos te sirvió para entrenar o contextualizar tus asistentes de IA en proyectos No-Code, puedes apoyar el mantenimiento de estas bases de datos públicas con una donación:
+
+👉 Apoyar en Ko-fi: ko-fi.com/yellowtips
+
+Licencia: MIT - Libre uso y distribución para agentes de IA de código abierto.
